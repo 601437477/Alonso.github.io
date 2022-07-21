@@ -80,7 +80,7 @@ favicon: https://sls-cloudfunction-ap-guangzhou-code-1300044145.file.myqcloud.co
 
 # Avatar (頭像)
 avatar:
-  img: https://sls-cloudfunction-ap-guangzhou-code-1300044145.file.myqcloud.com/avatar.jpeg
+  img: https://raw.githubusercontent.com/601437477/blog-imag/main/202207202150051.jpg
   effect: false
 
 # Disable all banner image
@@ -190,7 +190,7 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
     - img: https://sls-cloudfunction-ap-guangzhou-code-1300044145.cos.ap-guangzhou.myqcloud.com/upload/wechat_pay.png
       text: 微信
